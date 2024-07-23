@@ -3,7 +3,7 @@
 
 - 🌱 Actuellement j'apprends **NextJS, Angular et TypeScript**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://marvindlls.github.io/Portfolio-3D/](https://marvindlls.github.io/Portfolio-3D/)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://marvindlls.github.io/Portfolio-3D/](https://marvindlls.github.io/Portfolio-3D/) (cliquez sur MD pour afficher la page d'accueil)
 
 - 📫 Comment me contacter **marvindillenseger@gmail.com**
 
