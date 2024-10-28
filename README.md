@@ -1,8 +1,6 @@
 <h1 align="center">Salut 👋, je m'appelle Marvin</h1>
 <h3 align="center">Je suis passionné par le développement web</h3>
 
-- 🔭 Actuellement j'apprends **TypeScript et Python**
-
 - 🌱 Actuellement j'apprends **Python et Django**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://portfolio-3-d-marvindlls-projects.vercel.app/](https://portfolio-3-d-marvindlls-projects.vercel.app/)
