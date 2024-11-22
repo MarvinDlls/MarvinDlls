@@ -3,7 +3,7 @@
 
 - 🌱 Actuellement j'apprends **Python et Django**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://portfolio-3-d-marvindlls-projects.vercel.app/](marvindlls.me)
+- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](marvindlls.me)
 
 - 📫 Comment me contacter ? **marvindillenseger@gmail.com**
 
