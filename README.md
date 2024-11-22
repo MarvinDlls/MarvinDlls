@@ -5,7 +5,7 @@
 
 - 🌱 Actuellement j'apprends **Python et Django**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [[marvindlls.me](https://www.marvindlls.me/)]
+- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](https://www.marvindlls.me/)
 
 - 📫 Comment me contacter ? **marvindillenseger@gmail.com**
 
