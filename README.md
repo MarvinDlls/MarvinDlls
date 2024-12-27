@@ -1,9 +1,7 @@
 <h1 align="center">Salut 👋, je m'appelle Marvin</h1>
 <h3 align="center">Je suis passionné par le développement web</h3>
 
-- 🔭 Actuellement j'apprends **TypeScript et Python**
-
-- 🌱 Actuellement j'apprends **Python et Django**
+- 🌱 Actuellement j'apprends **C**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](https://www.marvindlls.me/)
 
