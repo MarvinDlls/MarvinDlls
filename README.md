@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvindlls" alt="marvindlls" /></a> </p>
 
-- 🌱 Actuellement j'apprends le **C**
+- 🌱 Actuellement j'apprends **Java**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](marvindlls.me)
 
