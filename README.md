@@ -5,7 +5,7 @@
 
 - 🌱 Actuellement j'apprends **Java**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](marvindlls.me)
+- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](http://marvindlls.me)
 
 - 📫 Comment me contacter ? **marvindillenseger@gmail.com**
 
