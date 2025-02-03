@@ -50,3 +50,46 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
 </p>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <style>
+    @keyframes slither {
+      0% { d: path("M 50,100 Q 125,50 200,100 T 350,100"); }
+      25% { d: path("M 50,100 Q 125,150 200,100 T 350,100"); }
+      50% { d: path("M 50,100 Q 125,50 200,100 T 350,100"); }
+      75% { d: path("M 50,100 Q 125,150 200,100 T 350,100"); }
+      100% { d: path("M 50,100 Q 125,50 200,100 T 350,100"); }
+    }
+    @keyframes tongue {
+      0%, 100% { transform: scaleX(1); }
+      50% { transform: scaleX(1.2); }
+    }
+    .snake-body {
+      fill: #4CAF50;
+      animation: slither 3s ease-in-out infinite;
+    }
+    .eye {
+      fill: black;
+      r: 3;
+    }
+    .tongue {
+      fill: #FF0000;
+      transform-origin: center;
+      animation: tongue 0.5s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Corps du serpent -->
+  <path class="snake-body" d="M 50,100 Q 125,50 200,100 T 350,100" stroke="#388E3C" stroke-width="2"/>
+  
+  <!-- Tête du serpent -->
+  <circle cx="350" cy="100" r="15" fill="#4CAF50"/>
+  
+  <!-- Yeux -->
+  <circle class="eye" cx="355" cy="95"/>
+  <circle class="eye" cx="355" cy="105"/>
+  
+  <!-- Langue -->
+  <path class="tongue" d="M 365,100 l 15,0 l 5,-5 m -5,5 l 5,5" 
+        stroke="#FF0000" stroke-width="2" fill="none"/>
+</svg>
