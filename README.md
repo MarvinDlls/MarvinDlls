@@ -1,49 +1,81 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
+# 👋 Bienvenue sur mon Portfolio
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
+
 </div>
 
-###
+## 🚀 À propos de moi
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Passionné(e) par le développement web et les nouvelles technologies, je cherche constamment à repousser les limites de ce qui est possible dans le monde numérique. Mon expertise couvre aussi bien le front-end que le back-end, me permettant de créer des applications web complètes et performantes.
 
-###
+## 🛠️ Technologies & Outils
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+### 🎨 Front-End
+<div align="center">
+
+| Technologie | Expertise | Description |
+|-------------|-----------|-------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Maîtrise avancée du langage et de ses concepts modernes |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | Développement robuste avec typage statique |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ⭐⭐⭐⭐⭐ | Création d'interfaces utilisateur dynamiques |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ⭐⭐⭐⭐ | Développement d'applications web évolutives |
+
 </div>
 
-###
+### ⚙️ Back-End
+<div align="center">
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+| Technologie | Expertise | Description |
+|-------------|-----------|-------------|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐⭐⭐ | Développement backend robuste |
+| ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) | ⭐⭐⭐⭐ | Framework PHP moderne et performant |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | Applications d'entreprise scalables |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ⭐⭐⭐⭐ | Écosystème complet pour applications Java |
+
 </div>
 
-###
+### 📦 Base de données
+<div align="center">
 
-<br clear="both">
+| Technologie | Expertise | Description |
+|-------------|-----------|-------------|
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐⭐⭐ | Conception et optimisation de bases de données relationnelles |
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
+## 📈 Statistiques GitHub
+
+<div align="center">
+  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+</div>
+
+## 🌟 Projets Phares
+
+- 🚀 **Projet 1** - Description brève du projet
+- 💡 **Projet 2** - Description brève du projet
+- 🎯 **Projet 3** - Description brève du projet
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+## 🎮 Bonus: Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
