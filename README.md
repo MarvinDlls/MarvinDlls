@@ -1,81 +1,63 @@
-# 👋 Bienvenue sur mon Portfolio
+<h1 align="center">Salut 👋, je m'appelle Marvin</h1>
+<h3 align="center">Je suis passionné par la programmation web</h3>
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marvindlls" alt="marvindlls" />
+  </a>
+</p>
+
+- 🌱 Actuellement j'apprends **Java** et **Angular**
+- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](marvindlls.me)
+- 📫 Comment me contacter ? **marvindillenseger@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/marvin-dillenseger" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvin-dillenseger" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
   
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
-
-</div>
-
-## 🚀 À propos de moi
-
-Passionné(e) par le développement web et les nouvelles technologies, je cherche constamment à repousser les limites de ce qui est possible dans le monde numérique. Mon expertise couvre aussi bien le front-end que le back-end, me permettant de créer des applications web complètes et performantes.
-
-## 🛠️ Technologies & Outils
-
-### 🎨 Front-End
-<div align="center">
-
-| Technologie | Expertise | Description |
-|-------------|-----------|-------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Maîtrise avancée du langage et de ses concepts modernes |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | Développement robuste avec typage statique |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ⭐⭐⭐⭐⭐ | Création d'interfaces utilisateur dynamiques |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ⭐⭐⭐⭐ | Développement d'applications web évolutives |
-
-</div>
-
-### ⚙️ Back-End
-<div align="center">
-
-| Technologie | Expertise | Description |
-|-------------|-----------|-------------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐⭐⭐ | Développement backend robuste |
-| ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) | ⭐⭐⭐⭐ | Framework PHP moderne et performant |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | Applications d'entreprise scalables |
-| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ⭐⭐⭐⭐ | Écosystème complet pour applications Java |
-
-</div>
-
-### 📦 Base de données
-<div align="center">
-
-| Technologie | Expertise | Description |
-|-------------|-----------|-------------|
-| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐⭐⭐ | Conception et optimisation de bases de données relationnelles |
-
-</div>
-
-## 📈 Statistiques GitHub
-
-<div align="center">
+  <!-- Backend -->
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://symfony.com" target="_blank" rel="noreferrer">
+    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
   
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+  <!-- Database -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
 
-</div>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvindlls&show_icons=true&locale=en&layout=compact" alt="marvindlls" />
+</p>
 
-## 🌟 Projets Phares
-
-- 🚀 **Projet 1** - Description brève du projet
-- 💡 **Projet 2** - Description brève du projet
-- 🎯 **Projet 3** - Description brève du projet
-
-## 📫 Me Contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvin-dillenseger)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvindillenseger@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marvindlls.me)
-
-</div>
-
-## 🎮 Bonus: Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marvindlls/marvindlls/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marvindlls/marvindlls/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marvindlls/marvindlls/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvindlls&" alt="marvindlls" />
+</p>
