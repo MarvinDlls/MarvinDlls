@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 Actuellement j'apprends **Java** et **Angular**
-- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](marvindlls.me)
+- 👨‍💻 Tous mes projets sont disponibles sur [marvindlls.me](http://marvindlls.me)
 - 📫 Comment me contacter ? **marvindillenseger@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
